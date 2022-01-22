@@ -1,4 +1,4 @@
 Hi there 👋
 
-- 🌱 I’m currently learning at SSAFY
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: letsksy@naver.com
