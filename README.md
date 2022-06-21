@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning Java & algorithm
+- 🌱 I’m currently learning Java Backend & Computer Science
 - 📫 How to reach me: letsksy@naver.com
 
 [![Solved.ac
