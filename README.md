@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🌱 I’m currently learning Java Backend & Computer Science
+- 🌱 I’m currently learning Computer Science & Mobile App Development
 - 📫 How to reach me: letsksy@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeopp&&show_icons=true&theme=github_dark)
